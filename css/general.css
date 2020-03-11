@@ -17,5 +17,18 @@
 
 .btn-cor:hover
 {
-	background-color: #1E90FF;
+	background-color: #1b81e5;
+	color: white;
+}
+
+.btn-branco
+{
+	background-color: white;
+	color: #333;
+}
+
+.btn-branco:hover
+{
+	background-color: #eaeaea;
+	color: #333;
 }
