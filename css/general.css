@@ -1,4 +1,21 @@
 .bg-cor
 {
-	background-color: dodgerblue;
+	background-color: #1E90FF;
+}
+
+.centro
+{
+	display: block;
+	margin: 0 auto;
+}
+
+.btn-cor
+{
+	background-color: #1E90FF;
+	color: white;
+}
+
+.btn-cor:hover
+{
+	background-color: #1E90FF;
 }
