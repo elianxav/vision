@@ -32,3 +32,11 @@
 	background-color: #eaeaea;
 	color: #333;
 }
+
+/*-------------------------------------------------*/
+
+.bg-img
+{
+	background-size:cover;
+	background-repeat: no-repeat;
+}

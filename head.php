@@ -21,3 +21,20 @@
 	<title> <?php echo $title; ?> </title>
 </head>
 <body>
+
+<div class="pos-f-t m-0">
+	<div class="collapse" id="navbarToggleExternalContent">
+		<div class="bg-cor p-4">
+			<h5 class="text-white h4">Menu</h5>
+			<span class="text-white">Em desenvolvimento...</span>
+		</div>
+	</div>
+	<nav class="navbar navbar-dark bg-cor">
+		<a class="navbar-brand" href="#">
+			<img src="img/ico.png" height="25" alt="">
+		</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+	</nav>
+</div>

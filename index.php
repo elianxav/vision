@@ -6,23 +6,6 @@ include("head.php");
 
 ?>
 
-<div class="pos-f-t">
-	<div class="collapse" id="navbarToggleExternalContent">
-		<div class="bg-cor p-4">
-			<h5 class="text-white h4">Menu</h5>
-			<span class="text-white">Em desenvolvimento...</span>
-		</div>
-	</div>
-	<nav class="navbar navbar-dark bg-cor">
-		<a class="navbar-brand" href="#">
-			<img src="img/ico.png" height="25" alt="">
-		</a>
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-	</nav>
-</div>
-
 <header class="jumbotron jumbotron-fluid py-5 mb-0 bg-light text-center" id="inicio">
 	<h1 class="display-4 text-center">Vision</h1>
 	<p class="lead text-center">Vamos te ajudar a se guiar</p>
@@ -38,7 +21,7 @@ include("head.php");
 
 	<div class="pt-2" id="locais">
 		<hr>
-		<button class="m-0 jumbotron jumbotron-fluid w-100 btn-cor btn">Sala de aula</button>
+		<a href="salas.php" class="m-0 jumbotron jumbotron-fluid w-100 btn-cor btn">Sala de aula</a>
 		<hr>
 		<button class="m-0 jumbotron jumbotron-fluid w-100 btn-cor btn">Protocolo</button>
 		<hr>

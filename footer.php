@@ -1,5 +1,5 @@
 <footer class="jumbotron jumbotron-fluid py-5 mb-0 bg-light text-center border-top">
-	<p class="lead text-center">vision v0.0.4(alfa)</p>
+	<p class="lead text-center">vision v0.0.5(alfa)</p>
 </footer>
 
 
