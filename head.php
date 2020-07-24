@@ -30,7 +30,7 @@
 		</div>
 	</div>
 	<nav class="navbar navbar-dark bg-cor">
-		<a class="navbar-brand" href="#">
+		<a class="navbar-brand" href="index.php">
 			<img src="img/ico.png" height="25" alt="">
 		</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">

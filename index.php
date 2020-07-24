@@ -33,12 +33,6 @@ include("head.php");
 	</div>
 </section>
 
-<section class="jumbotron jumbotron-fluid py-5 mb-0 bg-light text-center" id="inicio">
-	<h1 class="display-4 text-center">Vision</h1>
-	<p class="lead text-center">Vamos te ajudar a se guiar</p>
-	<a class="btn btn-cor btn-lg" href="#buscar" role="button">Ir para busca</a>
-</section>
-
 
 <?php
 
